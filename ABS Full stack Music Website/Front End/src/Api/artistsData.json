@@ -1,0 +1,136 @@
+{
+  "artists": [
+    {
+      "name": "AP Dhillon",
+      "image": "https://i.tribune.com.pk/media/images/sing11667379351-0/sing11667379351-0.jpg",
+      "songs": [
+        {"id": 1, "name": "Punjabi", "songpath": "/Songs/WO_NOOR_-_AP_DHILLON(48k).mp3", "imagepath": "https://www.koimoi.com/wp-content/new-galleries/2023/08/ap-dhillon-net-worth-from-charging-over-10-lakh-per-song-to-earning-more-than-36-crores-annually-the-brown-munda-is-living-a-dreamy-life.jpg"},
+        {"id": 2, "name": "Brown Munde", "songpath": "/Songs/Scars_-_AP_Dhillon_(Official_Audio)(48k).mp3", "imagepath": "https://i1.sndcdn.com/artworks-uDHiZbyl1p2Jprg8-dLIVyw-t500x500.jpg"},
+        {"id": 3, "name": "Level", "songpath": "/Songs/True_Stories_-__AP_Dhillon___Shinda_Kahlon(48k).mp3", "imagepath": "https://i.ytimg.com/vi/TxYMpj67Apw/sddefault.jpg"},
+        {"id": 4, "name": "Saada Pyaar", "songpath": "/Songs/One_Love_Punjabi_Mashup_2023___Ft.Shubh___Imran_Khan___Ap_Dhillon___Zack_Knight___Sunny_Hassan(48k).mp3", "imagepath": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThbezTpV71hPOkkb0CrZ8gvE78R1V71t4qBw&s"},
+        {"id": 5, "name": "Dil Nu", "songpath": "/Songs/Yakeen_(Club_Mix)(256k).mp3", "imagepath": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLJPVTpyaTwpr7aCkc2GH_18EF7WKBopHzWA&s"}
+      ]
+    },
+    {
+      "name": "Shubh",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb8f553f96d564d1005a92d131",
+      "songs": [
+        {"id": 1, "name": "No Love", "songpath": "/Songs/One_Love_Punjabi_Mashup_2023___Ft.Shubh___Imran_Khan___Ap_Dhillon___Zack_Knight___Sunny_Hassan(48k).mp3", "imagepath": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBv3BkdFnjJc6KNTrqvJUghb_c3XxcaEggqg&s"},
+        {"id": 2, "name": "We Rollin", "songpath": "/Songs/WO_NOOR_-_AP_DHILLON(48k).mp3", "imagepath": "https://i1.sndcdn.com/artworks-S38xZynWnnX4rLKu-zu1KYA-t500x500.jpg"},
+        {"id": 3, "name": "Famous", "songpath": "https://soundcloud.com/shubh-artist/famous", "imagepath": "https://i.imgur.com/famous.jpg"},
+        {"id": 4, "name": "Attention", "songpath": "https://soundcloud.com/shubh-artist/attention", "imagepath": "https://i.imgur.com/attention.jpg"},
+        {"id": 5, "name": "Boli", "songpath": "https://soundcloud.com/shubh-artist/boli", "imagepath": "https://i.imgur.com/boli.jpg"}
+      ]
+    },
+    {
+      "name": "Sidhu Moose wala",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb9973157bdaedef3f77ef8e13",
+      "songs": [
+        {"id": 1, "name": "So High", "songpath": "https://soundcloud.com/sidhu-moosewala/so-high", "imagepath": "https://i.imgur.com/so_high.jpg"},
+        {"id": 2, "name": "Just Listen", "songpath": "https://soundcloud.com/sidhu-moosewala/just-listen", "imagepath": "https://i.imgur.com/just_listen.jpg"},
+        {"id": 3, "name": "Dollar", "songpath": "https://soundcloud.com/sidhu-moosewala/dollar", "imagepath": "https://i.imgur.com/dollar.jpg"},
+        {"id": 4, "name": "Bad Fellow", "songpath": "https://soundcloud.com/sidhu-moosewala/bad-fellow", "imagepath": "https://i.imgur.com/bad_fellow.jpg"},
+        {"id": 5, "name": "Devil", "songpath": "https://soundcloud.com/sidhu-moosewala/devil", "imagepath": "https://i.imgur.com/devil.jpg"}
+      ]
+    },
+    {
+      "name": "karan Aujla",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQh0qP265xFypI4cEnvskbKw0Qz0bkj1PF2eQ&s",
+      "songs": [
+        {"id": 1, "name": "Just Listen", "songpath": "https://soundcloud.com/karan-aujla/just-listen", "imagepath": "https://i.imgur.com/just_listen.jpg"},
+        {"id": 2, "name": "Chal Jindi Da", "songpath": "https://soundcloud.com/karan-aujla/chal-jindi-da", "imagepath": "https://i.imgur.com/chal_jindi_da.jpg"},
+        {"id": 3, "name": "Don’t Look", "songpath": "https://soundcloud.com/karan-aujla/dont-look", "imagepath": "https://i.imgur.com/dont_look.jpg"},
+        {"id": 4, "name": "Haan Haige Aa", "songpath": "https://soundcloud.com/karan-aujla/haan-haige-aa", "imagepath": "https://i.imgur.com/haan_haige_aa.jpg"},
+        {"id": 5, "name": "Duniya", "songpath": "https://soundcloud.com/karan-aujla/duniya", "imagepath": "https://i.imgur.com/duniya.jpg"}
+      ]
+    },
+    {
+      "name": "Arijit Singh",
+      "image": "https://engage4more.com/blog/wp-content/uploads/2022/07/Arijit-Singh-1024x1024.jpg",
+      "songs": [
+        {"id": 1, "name": "Tum Hi Ho", "songpath": "https://soundcloud.com/arijit-singh/tum-hi-ho", "imagepath": "https://i.imgur.com/tum_hi_ho.jpg"},
+        {"id": 2, "name": "Channa Mereya", "songpath": "https://soundcloud.com/arijit-singh/channa-mereya", "imagepath": "https://i.imgur.com/channa_mereya.jpg"},
+        {"id": 3, "name": "Raabta", "songpath": "https://soundcloud.com/arijit-singh/raabta", "imagepath": "https://i.imgur.com/raabta.jpg"},
+        {"id": 4, "name": "Kabira", "songpath": "https://soundcloud.com/arijit-singh/kabira", "imagepath": "https://i.imgur.com/kabira.jpg"},
+        {"id": 5, "name": "Pee Loon", "songpath": "https://soundcloud.com/arijit-singh/pee-loon", "imagepath": "https://i.imgur.com/pee_loon.jpg"}
+      ]
+    },
+    {
+      "name": "Diljit Dosanjh",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStbTg5Q4zENt5bktpQWNcIz5V_2WGHh1l6Sw&s",
+      "songs": [
+        {"id": 1, "name": "Do you know", "songpath": "https://soundcloud.com/diljit-dosanjh/do-you-know", "imagepath": "https://i.imgur.com/do_you_know.jpg"},
+        {"id": 2, "name": "Sardar Udham", "songpath": "https://soundcloud.com/diljit-dosanjh/sardar-udham", "imagepath": "https://i.imgur.com/sardar_udham.jpg"},
+        {"id": 3, "name": "7 Knaal", "songpath": "https://soundcloud.com/diljit-dosanjh/7-knaal", "imagepath": "https://i.imgur.com/7_knaal.jpg"},
+        {"id": 4, "name": "Lungi Dance", "songpath": "https://soundcloud.com/diljit-dosanjh/lungi-dance", "imagepath": "https://i.imgur.com/lungi_dance.jpg"},
+        {"id": 5, "name": "Patiala Peg", "songpath": "https://soundcloud.com/diljit-dosanjh/patiala-peg", "imagepath": "https://i.imgur.com/patiala_peg.jpg"}
+      ]
+    },
+    {
+      "name": "Amrit Maan",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRx2OgS2H2eUm3AVR-FvhlBb6RNco52p_Rndw&s",
+      "songs": [
+        {"id": 1, "name": "Saab", "songpath": "https://soundcloud.com/amrit-maan/saab", "imagepath": "https://i.imgur.com/saab.jpg"},
+        {"id": 2, "name": "Kalli Kitab", "songpath": "https://soundcloud.com/amrit-maan/kalli-kitab", "imagepath": "https://i.imgur.com/kalli_kitab.jpg"},
+        {"id": 3, "name": "Daru", "songpath": "https://soundcloud.com/amrit-maan/daru", "imagepath": "https://i.imgur.com/daru.jpg"},
+        {"id": 4, "name": "Haan Hani", "songpath": "https://soundcloud.com/amrit-maan/haan-hani", "imagepath": "https://i.imgur.com/haan_hani.jpg"},
+        {"id": 5, "name": "Jodi", "songpath": "https://soundcloud.com/amrit-maan/jodi", "imagepath": "https://i.imgur.com/jodi.jpg"}
+      ]
+    },
+    {
+      "name": "Atif Aslam",
+      "image": "https://www.thenews.com.pk//assets/uploads/magazine/2020-05-03/653254_517208_atif-aslam_magazine.jpg",
+      "songs": [
+        {"id": 1, "name": "Tera Ban Jaunga", "songpath": "https://soundcloud.com/atif-aslam/tera-ban-jaunga", "imagepath": "https://i.imgur.com/tera_ban_jaunga.jpg"},
+        {"id": 2, "name": "Jeene Laga Hoon", "songpath": "https://soundcloud.com/atif-aslam/jeene-laga-hoon", "imagepath": "https://i.imgur.com/jeene_laga_hoon.jpg"},
+        {"id": 3, "name": "Dil Dhadakne Do", "songpath": "https://soundcloud.com/atif-aslam/dil-dhadakne-do", "imagepath": "https://i.imgur.com/dil_dhadakne_do.jpg"},
+        {"id": 4, "name": "Tera Hone Laga Hoon", "songpath": "https://soundcloud.com/atif-aslam/tera-hone-laga-hoon", "imagepath": "https://i.imgur.com/tera_hone_laga_hoon.jpg"},
+        {"id": 5, "name": "Dilruba", "songpath": "https://soundcloud.com/atif-aslam/dilruba", "imagepath": "https://i.imgur.com/dilruba.jpg"}
+      ]
+    },
+    {
+      "name": "Bilal Saeed",
+      "image": "https://images.indianexpress.com/2024/01/bilal-saeed.jpg",
+      "songs": [
+        {"id": 1, "name": "Bari Barsi", "songpath": "https://soundcloud.com/bilal-saeed/bari-barsi", "imagepath": "https://i.imgur.com/bari_barsi.jpg"},
+        {"id": 2, "name": "12 Saal", "songpath": "https://soundcloud.com/bilal-saeed/12-saal", "imagepath": "https://i.imgur.com/12_saal.jpg"},
+        {"id": 3, "name": "Kaash", "songpath": "https://soundcloud.com/bilal-saeed/kaash", "imagepath": "https://i.imgur.com/kaash.jpg"},
+        {"id": 4, "name": "Suno Chanda", "songpath": "https://soundcloud.com/bilal-saeed/suno-chanda", "imagepath": "https://i.imgur.com/suno_chanda.jpg"},
+        {"id": 5, "name": "Dilli Waali Baatcheet", "songpath": "https://soundcloud.com/bilal-saeed/dilli-waali-baatcheet", "imagepath": "https://i.imgur.com/dilli_waali_baatcheet.jpg"}
+      ]
+    },
+    {
+      "name": "kaifi khalil",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRC7lSNIqb-CnS2VPVPKuffh5cSJRVl-GY5rg&usqp=CAU",
+      "songs": [
+        {"id": 1, "name": "Kahani Suno", "songpath": "https://soundcloud.com/kaifi-khalil/kahani-suno", "imagepath": "https://i.imgur.com/kahani_suno.jpg"},
+        {"id": 2, "name": "Ranjha", "songpath": "https://soundcloud.com/kaifi-khalil/ranjha", "imagepath": "https://i.imgur.com/ranjha.jpg"},
+        {"id": 3, "name": "Beliya", "songpath": "https://soundcloud.com/kaifi-khalil/beliya", "imagepath": "https://i.imgur.com/beliya.jpg"},
+        {"id": 4, "name": "Meri Zindagi", "songpath": "https://soundcloud.com/kaifi-khalil/meri-zindagi", "imagepath": "https://i.imgur.com/meri_zindagi.jpg"},
+        {"id": 5, "name": "Dil", "songpath": "https://soundcloud.com/kaifi-khalil/dil", "imagepath": "https://i.imgur.com/dil.jpg"}
+      ]
+    },
+    {
+      "name": "Jassi Gill",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Jassie_Gill.jpg/800px-Jassie_Gill.jpg",
+      "songs": [
+        {"id": 1, "name": "Lungi Dance", "songpath": "https://soundcloud.com/jassi-gill/lungi-dance", "imagepath": "https://i.imgur.com/lungi_dance.jpg"},
+        {"id": 2, "name": "Pachtaoge", "songpath": "https://soundcloud.com/jassi-gill/pachtaoge", "imagepath": "https://i.imgur.com/pachtaoge.jpg"},
+        {"id": 3, "name": "Dil Tere", "songpath": "https://soundcloud.com/jassi-gill/dil-tere", "imagepath": "https://i.imgur.com/dil_tere.jpg"},
+        {"id": 4, "name": "Guitar Sikhda", "songpath": "https://soundcloud.com/jassi-gill/guitar-sikhda", "imagepath": "https://i.imgur.com/guitar_sikhda.jpg"},
+        {"id": 5, "name": "Tera Suit", "songpath": "https://soundcloud.com/jassi-gill/tera-suit", "imagepath": "https://i.imgur.com/tera_suit.jpg"}
+      ]
+    },
+    {
+      "name": "Ninja",
+      "image": "https://i.pinimg.com/236x/c4/56/19/c45619775e5516594b41d312133d9d7d.jpg",
+      "songs": [
+        {"id": 1, "name": "Soch", "songpath": "https://soundcloud.com/ninja/soch", "imagepath": "https://i.imgur.com/soch.jpg"},
+        {"id": 2, "name": "Rakhli Tu", "songpath": "https://soundcloud.com/ninja/rakhli-tu", "imagepath": "https://i.imgur.com/rakhli_tu.jpg"},
+        {"id": 3, "name": "Aye Sardar", "songpath": "https://soundcloud.com/ninja/aye-sardar", "imagepath": "https://i.imgur.com/aye_sardar.jpg"},
+        {"id": 4, "name": "Thokar", "songpath": "https://soundcloud.com/ninja/thokar", "imagepath": "https://i.imgur.com/thokar.jpg"},
+        {"id": 5, "name": "Mere Yaar", "songpath": "https://soundcloud.com/ninja/mere-yaar", "imagepath": "https://i.imgur.com/mere_yaar.jpg"}
+      ]
+    }
+  ]
+}

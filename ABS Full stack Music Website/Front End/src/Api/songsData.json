@@ -1,0 +1,51 @@
+[
+    {
+      "id": 1,
+      "type": "song",
+      "name": "Song 1",
+      "artist": "Artist 1",
+      "album": "Album 1",
+      "duration": "3:15"
+    },
+    {
+      "id": 2,
+      "type": "song",
+      "name": "Song 2",
+      "artist": "Artist 2",
+      "album": "Album 2",
+      "duration": "4:05"
+    },
+    {
+      "id": 3,
+      "type": "song",
+      "name": "Song 3",
+      "artist": "Artist 3",
+      "album": "Album 3",
+      "duration": "2:45"
+    },
+    {
+      "id": 4,
+      "type": "song",
+      "name": "Song 4",
+      "artist": "Artist 4",
+      "album": "Album 4",
+      "duration": "5:00"
+    },
+    {
+      "id": 5,
+      "type": "album",
+      "name": "Album 1",
+      "artist": "Artist 1"
+    },
+    {
+      "id": 6,
+      "type": "artist",
+      "name": "Artist 1"
+    },
+    {
+      "id": 7,
+      "type": "playlist",
+      "name": "Playlist 1"
+    }
+  ]
+  

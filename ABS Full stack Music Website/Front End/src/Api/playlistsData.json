@@ -1,0 +1,164 @@
+{
+  "playlists": [
+    {
+      "name": "Playlist 1",
+      "image": "https://images.genius.com/461d0e2f20b7b7faa9b5929d2d5e0f0d.640x640x1.jpg",
+      "description": "Description of Playlist 1",
+      "owner": "Owner 1",
+      "tracks": 10,
+      "songs": [
+        {
+          "id": 1,
+          "name": "Blinding Lights",
+          "SongPath": "/Songs/1684849662350Bedardeya.mp3",
+          "ImagePath": "/Songs/1684849662386O-Bedardeya.jpg"
+        },
+        {
+          "id": 2,
+          "name": "Save Your Tears",
+          "SongPath": "/Songs/1684849727754Kesariya_320(PagalWorld).mp3",
+          "ImagePath": "/Songs/1684849727773Kesariya_song_cover.jpg"
+        },
+        {
+          "id": 3,
+          "name": "Levitating",
+          "SongPath": "/Songs/1684849829648X2Download.app - Sunn Raha Hai Na Tu Aashiqui 2 Full Video Song - Aditya Roy Kapur, Shraddha Kapoor (128 kbps).mp3",
+          "ImagePath": "/Songs/1684849829673sun-raha-hai-na-tu-lyrics.jpg"
+        },
+        {
+          "id": 4,
+          "name": "Don't Start Now",
+          "SongPath": "https://soundcloud.com/dua-lipa/dont-start-now",
+          "ImagePath": "https://i.imgur.com/dont_start_now.jpg"
+        },
+        {
+          "id": 5,
+          "name": "Bad Habits",
+          "SongPath": "https://soundcloud.com/ed-sheeran/bad-habits",
+          "ImagePath": "https://i.imgur.com/bad_habits.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Playlist 2",
+      "image": "https://images.genius.com/28752ad80d6f278d46afc9f629150931.640x640x1.jpg",
+      "description": "Description of Playlist 2",
+      "owner": "Owner 2",
+      "tracks": 12,
+      "songs": [
+        {"id": 3, "name": "Song 3", "SongPath": "https://example.com/song3.mp3", "ImagePath": "https://example.com/song6.jpg"},
+        {"id": 4, "name": "Song 4", "SongPath": "https://example.com/song4.mp3", "ImagePath": "https://example.com/song6.jpg"}
+      ]
+    },
+    {
+      "name": "Playlist 3",
+      "image": "https://storage.googleapis.com/pr-newsroom-wp/1/2019/01/FGL-Hot-Country.jpeg",
+      "description": "Description of Playlist 3",
+      "owner": "Owner 3",
+      "tracks": 8,
+      "songs": [
+        {"id": 5, "name": "Song 5", "SongPath": "https://example.com/song5.mp3", "ImagePath": "https://example.com/song6.jpg"},
+        {"id": 6, "name": "Song 6", "SongPath": "https://example.com/song6.mp3", "ImagePath": "https://example.com/song6.jpg"}
+      ]
+    },
+    {
+      "name": "Playlist 4",
+      "image": "https://i.scdn.co/image/ab67616d00001e028652583aa009e62b62460105",
+      "description": "Description of Playlist 4",
+      "owner": "Owner 4",
+      "tracks": 15,
+      "songs": [
+        {"id": 7, "name": "Song 7", "SongPath": "https://example.com/song7.mp3", "ImagePath": "https://example.com/song6.jpg"},
+        {"id": 8, "name": "Song 8", "SongPath": "https://example.com/song8.mp3", "ImagePath": "https://example.com/song6.jpg"}
+      ]
+    },
+    {
+      "name": "Playlist 5",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734fa8f0c31e5ca2ebff6bb03c",
+      "description": "Description of Playlist 5",
+      "owner": "Owner 5",
+      "tracks": 20,
+      "songs": [
+        {"id": 9, "name": "Song 9", "SongPath": "https://example.com/song9.mp3", "ImagePath": "https://example.com/song6.jpg"},
+        {"id": 10, "name": "Song 10", "SongPath": "https://example.com/song10.mp3", "ImagePath": "https://example.com/song6.jpg"}
+      ]
+    },
+    {
+      "name": "Playlist 6",
+      "image": "https://i.scdn.co/image/ab67616d0000b27338a2d8ce761592fecf2cdfe8",
+      "description": "Description of Playlist 6",
+      "owner": "Owner 6",
+      "tracks": 9,
+      "songs": [
+        {"id": 11, "name": "Song 11", "SongPath": "https://example.com/song11.mp3", "ImagePath": "https://example.com/song6.jpg"},
+        {"id": 12, "name": "Song 12", "SongPath": "https://example.com/song12.mp3", "ImagePath": "https://example.com/song6.jpg"}
+      ]
+    },
+    {
+      "name": "Playlist 7",
+      "image": "https://i.scdn.co/image/ab67616d00001e02fe1ccdac51ecb9191162d654",
+      "description": "Description of Playlist 7",
+      "owner": "Owner 7",
+      "tracks": 11,
+      "songs": [
+        {"id": 13, "name": "Song 13", "SongPath": "https://example.com/song13.mp3", "ImagePath": "https://example.com/song6.jpg"},
+        {"id": 14, "name": "Song 14", "SongPath": "https://example.com/song14.mp3", "ImagePath": "https://example.com/song6.jpg"}
+      ]
+    },
+    {
+      "name": "Playlist 8",
+      "image": "https://i.scdn.co/image/ab67616d00001e022e44c1efb454957952ed1dd3",
+      "description": "Description of Playlist 8",
+      "owner": "Owner 8",
+      "tracks": 14,
+      "songs": [
+        {"id": 15, "name": "Song 15", "SongPath": "https://example.com/song15.mp3", "ImagePath": "https://example.com/song6.jpg"},
+        {"id": 16, "name": "Song 16", "SongPath": "https://example.com/song16.mp3", "ImagePath": "https://example.com/song6.jpg"}
+      ]
+    },
+    {
+      "name": "Playlist 9",
+      "image": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84208adb263349d9c836439816",
+      "description": "Description of Playlist 9",
+      "owner": "Owner 9",
+      "tracks": 13,
+      "songs": [
+        {"id": 17, "name": "Song 17", "SongPath": "https://example.com/song17.mp3", "ImagePath": "https://example.com/song6.jpg"},
+        {"id": 18, "name": "Song 18", "SongPath": "https://example.com/song18.mp3", "ImagePath": "https://example.com/song6.jpg"}
+      ]
+    },
+    {
+      "name": "Playlist 10",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e1e247827dcf295c670b361a",
+      "description": "Description of Playlist 10",
+      "owner": "Owner 10",
+      "tracks": 17,
+      "songs": [
+        {"id": 19, "name": "Song 19", "SongPath": "https://example.com/song19.mp3", "ImagePath": "https://example.com/song6.jpg"},
+        {"id": 20, "name": "Song 20", "SongPath": "https://example.com/song20.mp3", "ImagePath": "https://example.com/song6.jpg"}
+      ]
+    },
+    {
+      "name": "Playlist 11",
+      "image": "https://i.scdn.co/image/ab67706f000000028b403e281b9d1d4ec2280747",
+      "description": "Description of Playlist 11",
+      "owner": "Owner 11",
+      "tracks": 18,
+      "songs": [
+        {"id": 21, "name": "Song 21", "SongPath": "https://example.com/song21.mp3", "ImagePath": "https://example.com/song6.jpg"},
+        {"id": 22, "name": "Song 22", "SongPath": "https://example.com/song22.mp3", "ImagePath": "https://example.com/song6.jpg"}
+      ]
+    },
+    {
+      "name": "Playlist 12",
+      "image": "https://i.scdn.co/image/ab67706f00000002f5b816a0da042996f984d1aa",
+      "description": "Description of Playlist 12",
+      "owner": "Owner 12",
+      "tracks": 16,
+      "songs": [
+        {"id": 23, "name": "Song 23", "SongPath": "https://example.com/song23.mp3", "ImagePath": "https://example.com/song6.jpg"},
+        {"id": 24, "name": "Song 24", "SongPath": "https://example.com/song24.mp3", "ImagePath": "https://example.com/song6.jpg"}
+      ]
+    }
+  ]
+}

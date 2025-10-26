@@ -1,0 +1,104 @@
+.app {
+  display: flex;
+  
+  background-color: #111;
+}
+
+.main-content {
+  flex-grow: 1;
+  padding: 20px;
+}.sidebar {
+  width: 250px;
+  background-color: #333;
+  color: white;
+  height: 100vh;
+  padding: 20px;
+  margin-top: 20px;
+  margin-left: 10px;
+  border-radius: 10px;
+}
+
+.sidebar ul {
+  margin-top: -30px;
+  margin-left: -130px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  list-style-type: none;
+  padding: 0;
+  text-align: center;
+  font-size: larger;
+  font-weight: bold;
+}
+
+.sidebar li {
+  margin: 20px 0;
+}
+
+.sidebar a {
+  color: rgb(175, 173, 173);
+  text-decoration: none;
+}
+
+.sidebar a:hover {
+  color: rgb(255, 255, 255);
+  text-decoration: none;
+  transition: 0.2s;
+  
+  border-radius: 5px;
+  padding: 5px;
+}
+
+.sidebarlogo img {
+  height: 150px;
+  margin-top: -30px;
+}
+
+.navbar {
+  display: flex;
+  justify-content: flex-end;
+  padding: 10px 20px;
+  background-color: #333;
+  color: white;
+  border-radius: 10px;
+}
+
+.b2 {
+  margin-left: 10px;
+  padding: 10px 20px;
+  background-color: #aa9521;
+  color: white;
+  border: none;
+  border-radius: 10px;
+  font-size: larger;
+  cursor: pointer;
+}
+
+.b1 {
+  margin-left: 10px;
+  padding: 10px 20px;
+  background-color: #333;
+  color: white;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  font-size: larger;
+}
+.b1:hover{
+  color: rgb(255, 255, 255);
+  text-decoration: none;
+  transition: 0.2s;
+}
+
+.navbar button:hover {
+  background-color: #f5d105;
+}
+.ih{
+  margin-right: 10px;
+}
+
+.sidebar-image img {
+  width: 280px;
+  height: auto;
+  
+margin-left: -15px;
+}

@@ -1,0 +1,25 @@
+{
+  "name": "pannel",
+  "version": "1.0.0",
+  "description": "Spotify music app admin panel",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "author": "Muhammad Behram Hassan,Sulman Shokat,Abdullah Waseem,Abdullah PI",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "install": "^0.13.0",
+    "mongoose": "^8.5.1",
+    "multer": "^1.4.5-lts.1",
+    "npm": "^10.8.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}

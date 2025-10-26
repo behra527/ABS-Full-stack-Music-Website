@@ -1,0 +1,148 @@
+{
+  "radioData": [
+    {
+      "id": 1,
+      "name": "Pop Hits Radio",
+      "genre": "Pop",
+      "logo": "https://i.scdn.co/image/ab67706c0000da8481b02b2a589b6fd6284c1054",
+      "description": "Playing the latest pop hits from around the world.",
+      "frequency": "98.5 FM",
+      "songs": [
+        {"id": 1, "name": "Song 1", "SongPath": "/Songs/1684850024267Jode Jode Falwa.mp3", "imagePath": "/Songs/1684850024282jode jode.jpg"},
+        {"id": 2, "name": "Song 2", "SongPath": "/Songs/1684849874420X2Download.app - Main Rahoon Ya Na Rahoon Full Video - Emraan Hashmi, Esha Gupta - Amaal Mallik, Armaan Malik (128 kbps).mp3", "imagePath": "/Songs/1684849874443mai rahu ya na rahu.jpeg"}
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Rock Classics Radio",
+      "genre": "Rock",
+      "logo": "https://i.scdn.co/image/ab67706f000000024a83d42ca84e63abc9413b5d",
+      "description": "Your favorite classic rock tunes all day long.",
+      "frequency": "101.3 FM",
+      "songs": [
+        {"id": 3, "name": "Song 3", "SongPath": "https://example.com/song3.mp3", "imagePath": "https://example.com/song6.jpg"},
+        {"id": 4, "name": "Song 4", "SongPath": "https://example.com/song4.mp3", "imagePath": "https://example.com/song6.jpg"}
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Hip Hop Beats Radio",
+      "genre": "Hip Hop",
+      "logo": "https://seeded-session-images.scdn.co/v2/img/540/r/artist/4udFTFeRY7YE61YSoVfdY2/en",
+      "description": "Spinning the hottest hip hop beats and tracks.",
+      "frequency": "94.7 FM",
+      "songs": [
+        {"id": 5, "name": "Song 5", "SongPath": "https://example.com/song5.mp3", "imagePath": "https://example.com/song6.jpg"},
+        {"id": 6, "name": "Song 6", "SongPath": "https://example.com/song6.mp3", "imagePath": "https://example.com/song6.jpg"}
+      ]
+    },
+    {
+      "id": 4,
+      "name": "EDM Party Radio",
+      "genre": "Electronic Dance Music",
+      "logo": "https://seeded-session-images.scdn.co/v2/img/540/r/artist/4pS7YbG8hEdLxfoSfMCXrx/en",
+      "description": "Bringing the energy with non-stop EDM party mixes.",
+      "frequency": "107.9 FM",
+      "songs": [
+        {"id": 7, "name": "Song 7", "SongPath": "https://example.com/song7.mp3", "imagePath": "https://example.com/song6.jpg"},
+        {"id": 8, "name": "Song 8", "SongPath": "https://example.com/song8.mp3", "imagePath": "https://example.com/song6.jpg"}
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Country Hits Radio",
+      "genre": "Country",
+      "logo": "https://seeded-session-images.scdn.co/v2/img/540/r/artist/6an71CZ4eSxx7uG6KXRHFM/en",
+      "description": "Playing the top country hits for your enjoyment.",
+      "frequency": "96.1 FM",
+      "songs": [
+        {"id": 9, "name": "Song 9", "SongPath": "https://example.com/song9.mp3", "imagePath": "https://example.com/song6.jpg"},
+        {"id": 10, "name": "Song 10", "SongPath": "https://example.com/song10.mp3", "imagePath": "https://example.com/song6.jpg"}
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Jazz Lounge Radio",
+      "genre": "Jazz",
+      "logo": "https://seeded-session-images.scdn.co/v2/img/540/r/artist/0MVmK9MJxpskVkd0MbJ7HL/de",
+      "description": "Relax with smooth jazz tunes in our jazz lounge.",
+      "frequency": "102.5 FM",
+      "songs": [
+        {"id": 11, "name": "Song 11", "SongPath": "https://example.com/song11.mp3", "imagePath": "https://example.com/song6.jpg"},
+        {"id": 12, "name": "Song 12", "SongPath": "https://example.com/song12.mp3", "imagePath": "https://example.com/song6.jpg"}
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Classical Symphony Radio",
+      "genre": "Classical",
+      "logo": "https://i.scdn.co/image/ab67616d00001e0228b7402ccff3a3336f446889",
+      "description": "Experience the beauty of classical symphonies.",
+      "frequency": "90.3 FM",
+      "songs": [
+        {"id": 13, "name": "Song 13", "SongPath": "https://example.com/song13.mp3", "imagePath": "https://example.com/song6.jpg"},
+        {"id": 14, "name": "Song 14", "SongPath": "https://example.com/song14.mp3", "imagePath": "https://example.com/song6.jpg"}
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Reggae Vibes Radio",
+      "genre": "Reggae",
+      "logo": "https://seeded-session-images.scdn.co/v2/img/540/r/artist/5le6oT3WeJNgfvXksHfeWa/de",
+      "description": "Feel the vibes with authentic reggae music.",
+      "frequency": "105.8 FM",
+      "songs": [
+        {"id": 15, "name": "Song 15", "SongPath": "https://example.com/song15.mp3", "imagePath": "https://example.com/song6.jpg"},
+        {"id": 16, "name": "Song 16", "SongPath": "https://example.com/song16.mp3", "imagePath": "https://example.com/song6.jpg"}
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Blues Junction Radio",
+      "genre": "Blues",
+      "logo": "https://seeded-session-images.scdn.co/v2/img/122/secondary/artist/0rb40zwijTr87FJA27V8Gi/en",
+      "description": "Explore the soulful sounds of blues music.",
+      "frequency": "99.2 FM",
+      "songs": [
+        {"id": 17, "name": "Song 17", "SongPath": "https://example.com/song17.mp3", "imagePath": "https://example.com/song6.jpg"},
+        {"id": 18, "name": "Song 18", "SongPath": "https://example.com/song18.mp3", "imagePath": "https://example.com/song6.jpg"}
+      ]
+    },
+    {
+      "id": 10,
+      "name": "R&B Grooves Radio",
+      "genre": "R&B",
+      "logo": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da843ddb0657cb3377a63096847e",
+      "description": "Groove to the rhythm with smooth R&B tracks.",
+      "frequency": "103.7 FM",
+      "songs": [
+        {"id": 19, "name": "Song 19", "SongPath": "https://example.com/song19.mp3", "imagePath": "https://example.com/song6.jpg"},
+        {"id": 20, "name": "Song 20", "SongPath": "https://example.com/song20.mp3", "imagePath": "https://example.com/song6.jpg"}
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Alternative Rock Radio",
+      "genre": "Alternative",
+      "logo": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84ea9148330e1ce82bfb1b8447",
+      "description": "Discover the latest in alternative rock music.",
+      "frequency": "92.6 FM",
+      "songs": [
+        {"id": 21, "name": "Song 21", "SongPath": "https://example.com/song21.mp3", "imagePath": "https://example.com/song6.jpg"},
+        {"id": 22, "name": "Song 22", "SongPath": "https://example.com/song22.mp3", "imagePath": "https://example.com/song6.jpg"}
+      ]
+    },
+    {
+      "id": 12,
+      "name":"Alternative Rock Radio",
+      "genre": "Alternative",
+      "logo": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84ea9148330e1ce82bfb1b8447",
+      "description": "Discover the latest in alternative rock music.",
+      "frequency": "92.6 FM",
+      "songs": [
+        {"id": 21, "name": "Song 21", "SongPath": "https://example.com/song21.mp3", "imagePath": "https://example.com/song6.jpg"},
+        {"id": 22, "name": "Song 22", "SongPath": "https://example.com/song22.mp3", "imagePath": "https://example.com/song6.jpg"}
+      ]
+    }
+  ]
+}

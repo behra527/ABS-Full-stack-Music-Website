@@ -1,0 +1,212 @@
+{
+  "albums": [
+    {
+      "id": 1,
+      "name": "Sad Songs",
+      "artist": "Artist 1",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYvlREkAjEiSiT3GWi3e4D8JPsFq8xkhM71g&s",
+      "songs": [
+        {"id": 1, "name": "Someone Like You", "songpath": "/Songs/1684849662350Bedardeya.mp3", "imagepath": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQsC50Vvehhvk08Gmwr7HfKjTJ5Cn-M2-n3A&s"},
+        {"id": 2, "name": "Hello", "songpath": "/Songs/Hasi_Ban_Gaye_(Lyrics)_-_Ami_Mishra,_Kunaal_Vermaa(48k).mp3", "imagepath": "https://c.saavncdn.com/651/Aadat-Punjabi-2016-20190423120655-500x500.jpg"},
+        {"id": 3, "name": "Tum Hi Ho", "songpath": "https://soundcloud.com/arijit-singh/tum-hi-ho", "imagepath": "https://i.imgur.com/tum_hi_ho.jpg"},
+        {"id": 4, "name": "Channa Mereya", "songpath": "https://soundcloud.com/arijit-singh/channa-mereya", "imagepath": "https://i.imgur.com/channa_mereya.jpg"}
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Top Songs",
+      "artist": "Artist 2",
+      "image": "https://i.scdn.co/image/ab67616d00001e0216056414993905595aeaea91",
+      "songs": [
+        {"id": 1, "name": "Blinding Lights", "songpath": "https://soundcloud.com/the-weeknd/blinding-lights", "imagepath": "https://i.imgur.com/blinding_lights.jpg"},
+        {"id": 2, "name": "Save Your Tears", "songpath": "https://soundcloud.com/the-weeknd/save-your-tears", "imagepath": "https://i.imgur.com/save_your_tears.jpg"},
+        {"id": 5, "name": "Bad Habits", "songpath": "https://soundcloud.com/ed-sheeran/bad-habits", "imagepath": "https://i.imgur.com/bad_habits.jpg"},
+        {"id": 6, "name": "Shape of You", "songpath": "https://soundcloud.com/ed-sheeran/shape-of-you", "imagepath": "https://i.imgur.com/shape_of_you.jpg"}
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Old Songs",
+      "artist": "Artist 3",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNaY4d41mYEAB4gpdM6QdZqcfhNqpvMY0rbw&s",
+      "songs": [
+        {"id": 1, "name": "Chakde Bhalay", "songpath": "https://soundcloud.com/gurdas-maan/chakde-bhalay", "imagepath": "https://i.imgur.com/chakde_bhalay.jpg"},
+        {"id": 2, "name": "Apna Punjab Hove", "songpath": "https://soundcloud.com/gurdas-maan/apna-punjab-hove", "imagepath": "https://i.imgur.com/apna_punjab_hove.jpg"},
+        {"id": 5, "name": "Jadon Tere", "songpath": "https://soundcloud.com/jaspreet-jasz/jadon-tere", "imagepath": "https://i.imgur.com/jadon_tere.jpg"},
+        {"id": 6, "name": "Jana Na", "songpath": "https://soundcloud.com/jaspreet-jasz/jana-na", "imagepath": "https://i.imgur.com/jana_na.jpg"}
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Top Hits",
+      "artist": "Artist 4",
+      "image": "https://external-preview.redd.it/punjabi-top-hits-best-party-songs-v0-cEyPPGx8jdQ-oiLTcxK4ryZE0fxG_n0AXpy6oBx02Gs.jpg?auto=webp&s=79f4d1f8d46091a448e52e065007bada157fa236",
+      "songs": [
+        {"id": 1, "name": "Blinding Lights", "songpath": "https://soundcloud.com/the-weeknd/blinding-lights", "imagepath": "https://i.imgur.com/blinding_lights.jpg"},
+        {"id": 2, "name": "Save Your Tears", "songpath": "https://soundcloud.com/the-weeknd/save-your-tears", "imagepath": "https://i.imgur.com/save_your_tears.jpg"},
+        {"id": 9, "name": "Bad Guy", "songpath": "https://soundcloud.com/billie-eilish/bad-guy", "imagepath": "https://i.imgur.com/bad_guy.jpg"},
+        {"id": 10, "name": "Everything I Wanted", "songpath": "https://soundcloud.com/billie-eilish/everything-i-wanted", "imagepath": "https://i.imgur.com/everything_i_wanted.jpg"}
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Tracks",
+      "artist": "Artist 5",
+      "image": "https://i.scdn.co/image/ab67706f00000002a7ab8f9f3c7c9609433d30d1",
+      "songs": [
+        {
+          "id": 1,
+          "name": "Song 1",
+          "songpath": "https://example.com/song1",
+          "imagepath": "https://via.placeholder.com/150"
+        },
+        {
+          "id": 2,
+          "name": "Song 2",
+          "songpath": "https://example.com/song2",
+          "imagepath": "https://via.placeholder.com/150"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Arabic",
+      "artist": "Artist 6",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ2sqwbXJXsZLfZ_OrIvmNvKAk1KME5S6VDA&s",
+      "songs": [
+        {
+          "id": 1,
+          "name": "Song 1",
+          "songpath": "https://example.com/song1",
+          "imagepath": "https://via.placeholder.com/150"
+        },
+        {
+          "id": 2,
+          "name": "Song 2",
+          "songpath": "https://example.com/song2",
+          "imagepath": "https://via.placeholder.com/150"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "English",
+      "artist": "Artist 7",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTcnGWr0iO0yFqwK3gIp-9n2H9O4xsibndzw&usqp=CAU",
+      "songs": [
+        {
+          "id": 1,
+          "name": "Song 1",
+          "songpath": "https://example.com/song1",
+          "imagepath": "https://via.placeholder.com/150"
+        },
+        {
+          "id": 2,
+          "name": "Song 2",
+          "songpath": "https://example.com/song2",
+          "imagepath": "https://via.placeholder.com/150"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Rap",
+      "artist": "Artist 8",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRp0YCgp-uAkJUWqcZJuF0n0xkjBDWPFaV7YQ&s",
+      "songs": [
+        {
+          "id": 1,
+          "name": "Song 1",
+          "songpath": "https://example.com/song1",
+          "imagepath": "https://via.placeholder.com/150"
+        },
+        {
+          "id": 2,
+          "name": "Song 2",
+          "songpath": "https://example.com/song2",
+          "imagepath": "https://via.placeholder.com/150"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "New Songs",
+      "artist": "Artist 9",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrHtNGti9q-Kct9VUUoiwKRD2m54IfR7XOvw&s",
+      "songs": [
+        {
+          "id": 1,
+          "name": "Song 1",
+          "songpath": "https://example.com/song1",
+          "imagepath": "https://via.placeholder.com/150"
+        },
+        {
+          "id": 2,
+          "name": "Song 2",
+          "songpath": "https://example.com/song2",
+          "imagepath": "https://via.placeholder.com/150"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Best Song",
+      "artist": "Artist 10",
+      "image": "https://ca-times.brightspotcdn.com/dims4/default/31e885d/2147483647/strip/true/crop/3000x2000+0+0/resize/1200x800!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fa0%2Fa2%2Febb4155e40a7b54d38a57db9066b%2Flat-ent-best-songs-2024.jpg",
+      "songs": [
+        {
+          "id": 1,
+          "name": "Song 1",
+          "songpath": "https://example.com/song1",
+          "imagepath": "https://via.placeholder.com/150"
+        },
+        {
+          "id": 2,
+          "name": "Song 2",
+          "songpath": "https://example.com/song2",
+          "imagepath": "https://via.placeholder.com/150"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Best Rap",
+      "artist": "Artist 11",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKyS29ao8GEs52-oUnBOAPZE98WuY1MxLsEQ&s",
+      "songs": [
+        {
+          "id": 1,
+          "name": "Song 1",
+          "songpath": "https://example.com/song1",
+          "imagepath": "https://via.placeholder.com/150"
+        },
+        {
+          "id": 2,
+          "name": "Song 2",
+          "songpath": "https://example.com/song2",
+          "imagepath": "https://via.placeholder.com/150"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Turkish",
+      "artist": "Artist 12",
+      "image": "https://idsb.tmgrup.com.tr/ly/uploads/images/2022/02/24/185297.jpg",
+      "songs": [
+        {
+          "id": 1,
+          "name": "Song 1",
+          "songpath": "https://example.com/song1",
+          "imagepath": "https://via.placeholder.com/150"
+        },
+        {
+          "id": 2,
+          "name": "Song 2",
+          "songpath": "https://example.com/song2",
+          "imagepath": "https://via.placeholder.com/150"
+        }
+      ]
+    }
+  ]
+}
